@@ -2,20 +2,12 @@
 template: BlogPost
 path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
+title: "Hello World: The remark Kitchen Sink"
 thumbnail: /assets/image-6.jpg
 ---
 # h1 Heading 8-)
 
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
+Let's play about around 
 
 ## Horizontal Rules
 
